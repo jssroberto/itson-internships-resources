@@ -54,6 +54,12 @@ En vez de “calendario perfecto”, piensa en capas que puedes ir apilando.
 ### Recursos (los buenos “default”)
 - r/EngineeringResumes Wiki: https://www.reddit.com/r/EngineeringResumes/wiki/index/  
 - Resume templates (wiki): https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/ 
+- Jake's resume template: https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
+
+### Overleaf & LaTeX para hacer un CV
+A diferencia de Word o Canva, Overleaf utiliza LaTeX, lo que garantiza que el formato sea consistente y, lo más importante, compatible con los sistemas ATS (Applicant Tracking Systems) que utilizan las empresas para filtrar CVs automáticamente.
+
+> Tip: Si no sabes LaTeX, no te preocupes; solo abre algunas de las anteriores plantillas y dale a “Open as Template” y edita el texto que aparece entre las llaves { }.
 
 ### Checklist de CV (estudiante / internship-ready)
 - 1 página, formato limpio (sin “diseño de Canva”, sin barras de skills).
@@ -138,6 +144,11 @@ La clave es aprender *patrones*, no coleccionar solves.
 Python recomendado por velocidad/claridad para entrevistas. Cualquier otro lenguaje como Java o C++ te quitará espacio mental para enfocarte en el problema. Vídeo recomendado para empezar rápido con Python si no tienes experiencia en el lenguaje:
 
 - “Python for Coding Interviews” (NeetCode, ~25 min): https://www.youtube.com/watch?v=0K_eZGS5NsU
+
+### Repositorio de preguntas para entrevistas
+Este repositorio contiene una lista de las preguntas de LeetCode más frecuentes, divididas por empresa. Antes de una entrevista técnica, busca si la empresa se encuentra en esta lista y aprovecha para resolver sus respectivos problemas. 
+
+- Leetcode Company Wise Problems: https://github.com/liquidslr/leetcode-company-wise-problems 
 
 ---
 
